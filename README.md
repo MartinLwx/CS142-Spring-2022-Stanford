@@ -9,7 +9,7 @@ The official site: <https://web.stanford.edu/class/cs142/index.html>
 
 ## Projects
 
-
+- [x] [Project01. HTML and CSS](./Proj01.HTML-and-CSS)
 
 ## Looking for answers for other cs-courses ?
 
