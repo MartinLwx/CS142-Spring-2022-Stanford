@@ -1,0 +1,31 @@
+.container {
+    font: Tahoma;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.item {
+    border-left: 10px dotted #D0D0FF;
+    width: 100px;
+    height: 150px;
+    background-color: #eeeff2;
+    margin-left: 10px;
+}
+
+.item:hover {
+    cursor: grab;
+    background-color: yellow;
+    color: goldenrod;
+}
+
+#F {
+    font: Tahoma;
+    font-size: 40px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
