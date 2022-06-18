@@ -10,6 +10,7 @@ The official site: <https://web.stanford.edu/class/cs142/index.html>
 ## Projects
 
 - [x] [Project01. HTML and CSS](./Proj01.HTML-and-CSS)
+- [x] [Project02. Javascript and calisthenics](./Proj02.Javascript-calisthenics)
 
 ## Looking for answers for other cs-courses ?
 
